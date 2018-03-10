@@ -373,7 +373,7 @@ public final class Option {
         /**
          * Default blog title.
          */
-        public static final String DEFAULT_BLOG_TITLE = "Solo 示例";
+        public static final String DEFAULT_BLOG_TITLE = "Vblog";
 
         /**
          * Default blog subtitle.
